@@ -1,6 +1,6 @@
 # FivePhilosophers
 
-**Problem pięciu filozofów**  
+**Problem pięciu filozofów**:  
  - Jest pięciu filozofów i pięć widelców
  - Każdy filozof zajmuje sie głownie myśleniem
  - Od czasu do czasu potrzebuje zjeść
@@ -9,7 +9,7 @@
    filozof widelce odkłada i wraca do myślenia
  - Cykl powtarza sie od początku
 
-## Rozwiązania:  
+## Rozwiązania  
 
 **Rozwiazanie trywialne**: każdy z filozofów podnosi najpierw prawy, a później lewy widelec.
 Rozwiązanie prowadzi do blokady, gdy wszyscy filozofowie podniosą prawy widelec i czekają na lewy.  
